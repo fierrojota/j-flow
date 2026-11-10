@@ -7,7 +7,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![CI](https://github.com/jotafierro/j-flow/actions/workflows/ci.yml/badge.svg)
 
-> Gate-based Spec-Driven Development for Claude Code — MongoDB + NestJS + React + Flutter.
+> A spec-driven development lab for proofs of concept: a gate-based workflow for Claude Code on MongoDB + NestJS + React + Flutter.
+
+## What this is (and isn't)
+
+j-flow is my lab for spec-driven development. It's where I test how far blocking gates, living specs and per-layer agents can push an AI coding assistant on a full-stack proof of concept. It's public, it works and it's opinionated, but it's an experiment. It isn't a framework I'd ask you to bet a production codebase on.
+
+If you came from my YouTube series [*From prototype to real app*](https://www.youtube.com/playlist?list=PLfvJiH1vO9Jo) (in Spanish): the series uses GitHub's Spec Kit with a TDD approach, not j-flow. What I learn here feeds the series, but the series doesn't depend on it.
 
 ## What problem does it solve?
 
